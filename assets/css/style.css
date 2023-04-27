@@ -1,0 +1,12 @@
+.self-image {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    display: box;
+    background-size: cover;
+    background-position: center;
+}
+
+.About-Me, .Work, .Contact-Me{
+
+}
