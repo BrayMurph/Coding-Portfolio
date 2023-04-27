@@ -8,5 +8,22 @@
 }
 
 .About-Me, .Work, .Contact-Me{
+    display: flex;
+    flex-direction: column;
 
+}
+
+.self-img {
+    display: block;
+    max-width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.work-img {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 300px;
+    
 }
