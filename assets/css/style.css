@@ -48,19 +48,6 @@ ul {
 
 
 @media screen and (max-width: 900px) {
-    
+        
 }
 
-
-/* Code for the button that does not work for the deploying the first application through image */
-
-/* .first-project { 
-    background:url(../images/Project-2.JPG) no-repeat;
-    cursor: pointer;
-    border: none;
-}
-
-.first-project:active {
-    background:url(../../../challenge-1/index.html) no-repeat;
-}
-*/
