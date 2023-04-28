@@ -41,8 +41,8 @@
     margin-left: auto;
     margin-right: auto;
     justify-content: center;
-    max-height: 400px;
-    max-width: 800px;
+    max-height: 500px;
+    max-width: 900px;
     flex: 1 0 0;
     text-align: center;
 }
