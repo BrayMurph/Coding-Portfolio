@@ -29,7 +29,7 @@
     margin-left: auto;
     margin-right: auto;
     justify-content: center;
-    max-width: 300px;
+    max-width: 500px;
     flex: 1 0 0;
     text-align: center;
 }
@@ -45,9 +45,8 @@ ul {
     margin-right: 40px;
 }
 
-
-
-@media screen and (max-width: 900px) {
-        
+@media screen and (max-width: 768px) {
+    header, main {
+        flex-direction: column;
+      }
 }
-
